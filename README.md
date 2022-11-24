@@ -35,15 +35,15 @@ cd vue-admin-template # enter the project directory
 
 - **安装依赖**
 
-   ```bash
-   yarn install # install dependency
-   ```
+```bash
+yarn install # install dependency
+```
 
 - **运行项目**
 
-   ```bash
-   yarn run serve # Compiles and hot-reloads for development
-   ```
+```bash
+yarn run serve # Compiles and hot-reloads for development
+```
 
 #### 发布
 
@@ -55,21 +55,21 @@ yarn run build:test # Packaging test
 
 - **正式打包**
 
-   ```bash
-   yarn run build # Compiles and minifies for production
-   ```
+```bash
+yarn run build # Compiles and minifies for production
+```
 
 - **运行测试单元**
 
-   ```bash
-   yarn run test # Run your tests
-   ```
+```bash
+yarn run test # Run your tests
+```
 
 - **格式化代码**
 
-   ```bash
-   yarn run lint # Lints and fixes files ——代码格式检查并自动修复(规范代码)
-   ```
+```bash
+yarn run lint # Lints and fixes files ——代码格式检查并自动修复(规范代码)
+```
 
 ### 演示
 
