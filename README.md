@@ -5,9 +5,7 @@
 
 - **完整版**
 
-  [Github仓库](https://github.com/sunyctf/vue-el-admin) | [预览地址](https://sunyctf.github.io/vue-el-admin/index.html)
-  
-  [Gitee  仓库](https://gitee.com/sunyctf/vue-el-admin)  | [预览地址](https://sunyctf.gitee.io/vue-el-admin/index.html)
+  [Github仓库](https://github.com/sunyctf/vue-el-admin) | [预览](https://sunyctf.github.io/vue-el-admin/index.html)  🌐  [Gitee仓库](https://gitee.com/sunyctf/vue-el-admin) | [预览](https://sunyctf.gitee.io/vue-el-admin/index.html)
 
 ### 前序准备
 
